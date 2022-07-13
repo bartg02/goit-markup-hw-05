@@ -769,6 +769,9 @@ background: #F5F4FA;
     width: 30px;
     height: 30px;
     border: none;
-  }
+    cursor: pointer;
+}
 
-  
+.close-btn:hover {
+  fill: #2196f3
+}
